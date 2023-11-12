@@ -1,9 +1,0 @@
-<svg width="49" height="59" viewBox="0 0 49 59" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="path-1-inside-1_320_63" fill="white">
-<rect width="49" height="59" rx="5"/>
-</mask>
-<rect width="49" height="59" rx="5" stroke="white" stroke-width="12" mask="url(#path-1-inside-1_320_63)"/>
-<line x1="39" y1="14" x2="16" y2="14" stroke="white" stroke-width="6"/>
-<line x1="39" y1="23" x2="16" y2="23" stroke="white" stroke-width="6"/>
-<line x1="39" y1="32" x2="16" y2="32" stroke="white" stroke-width="6"/>
-</svg>
