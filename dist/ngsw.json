@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700235622489,
+  "timestamp": 1700339780903,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.7381d777e2b3910f.js",
+        "/main.24713b2fe9dbdaf5.js",
         "/manifest.webmanifest",
         "/polyfills.f945e6bd214983c4.js",
         "/runtime.2cc99b5d68571b5a.js",
-        "/styles.c7acaf8d9197cd89.css"
+        "/styles.62fc60b693f3bd24.css"
       ],
       "patterns": []
     },
@@ -47,6 +47,7 @@
         "/assets/nav/notepad-nav-icon.svg",
         "/assets/nav/participants-nav-icon.svg",
         "/assets/nav/profile-nav-icon.svg",
+        "/assets/occupation-icon.svg",
         "/assets/paper-plane.svg",
         "/assets/people.svg",
         "/assets/person.svg",
@@ -84,6 +85,7 @@
     "/assets/nav/notepad-nav-icon.svg": "8880602a4197cee2a7306cca3c4eca0885e5e7cb",
     "/assets/nav/participants-nav-icon.svg": "c27ac44f536ab6ac946b94847b97459630afea56",
     "/assets/nav/profile-nav-icon.svg": "9e62be90987f03049727a17b23dea96d0bb2b451",
+    "/assets/occupation-icon.svg": "9990a78727992a305e5423a3a0986d45fde534b2",
     "/assets/paper-plane.svg": "bd05945d7515c9da8d744dd56dd63777d14d8b6e",
     "/assets/people.svg": "9333bb473b7e1a3895fd056a470a06869ead2fab",
     "/assets/person.svg": "5178fa29d7e6ca6b3b502fb0761ca210960761dc",
@@ -98,12 +100,12 @@
     "/fa-solid-900.0b5caff7ad4bc179.ttf": "20bd663830188cbadd2264e1daf9497c3ffc3621",
     "/fa-solid-900.3eae9857c06e9372.woff2": "6b99aa650bd12a36caa14e0127435d8f4cd3ba73",
     "/favicon.ico": "07e09924aab49f1d0ecd7c35c7d07d0da28495bb",
-    "/index.html": "2cc4233fdef0915777a534fa26bf4d1003af3097",
-    "/main.7381d777e2b3910f.js": "4848b7b4129c182b6b276da912125951abe36e91",
+    "/index.html": "29b2d5edeb5900afc88da54e3190796f2686f889",
+    "/main.24713b2fe9dbdaf5.js": "bccd1091f90c886ec5be568f10738491dec94ef6",
     "/manifest.webmanifest": "3465b8198884f0491c856b355335397976fe50d3",
     "/polyfills.f945e6bd214983c4.js": "25fa1a1a5fa7f6a08083efc23f652e645e2c5ecd",
     "/runtime.2cc99b5d68571b5a.js": "fe5d250624e1b7bb46344bdfa7a5333176b09d79",
-    "/styles.c7acaf8d9197cd89.css": "0c56650cd4c787ccd11b4530cf754c1c9098048e"
+    "/styles.62fc60b693f3bd24.css": "6a460652a3c8c16b8dace60254dd1f2fdafbeffb"
   },
   "navigationUrls": [
     {

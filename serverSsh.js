@@ -23,9 +23,9 @@ const server = https.createServer(httpsOptions, app);
 
 app.use((req, res, next) => {
    if(req.protocol === 'http') {
-     res.redirect(301, `https://localhost:80`);
+     res.redirect(301, `https://localhost:443`);
    }
    next();
 });
 
-server.listen(80, () => console.log(`App running on: https://localhost:80`));
+server.listen(443, () => console.log(`App running on: https://localhost:443`));
