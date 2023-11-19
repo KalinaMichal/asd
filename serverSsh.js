@@ -28,4 +28,11 @@ app.use((req, res, next) => {
    next();
 });
 
+app.use((req, res, next) => {
+  if (req.protocol === 'https' && req.hostname === 'www.localhost') {
+    return res.redirect(301, `https://localhost:443`);
+  }
+  next();
+});
+
 server.listen(443, () => console.log(`App running on: https://localhost:443`));
