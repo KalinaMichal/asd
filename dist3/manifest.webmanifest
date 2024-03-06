@@ -1,9 +1,0 @@
-{
-  "name": "conference-app",
-  "short_name": "conference-app",
-  "theme_color": "#488aff",
-  "background_color": "#488aff",
-  "display": "standalone",
-  "scope": "./",
-  "start_url": "./"
-}
