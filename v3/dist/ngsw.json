@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711888437447,
+  "timestamp": 1712129207413,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ce6a8b4006b11552.js",
+        "/main.8294031447195fbb.js",
         "/manifest.webmanifest",
         "/polyfills.f945e6bd214983c4.js",
         "/runtime.2cc99b5d68571b5a.js",
-        "/styles.de4d6bee67fd3c4b.css"
+        "/styles.5eeeef15eaca9e32.css"
       ],
       "patterns": []
     },
@@ -67,6 +67,7 @@
         "/assets/speakers/01_NUKOVIC_RASTISLAV_Eustream.jpg",
         "/assets/speakers/1_MykolaKolisnyk_photo.jpg",
         "/assets/speakers/Andreas_Noky_Infinite-Fuels-300x300.jpg",
+        "/assets/speakers/Anett-Csontos-Toth.png",
         "/assets/speakers/Chatzimarkakis-Jorgo_2023-300x300.jpg",
         "/assets/speakers/Claudia-Patricolo-1-1536x1536.jpg",
         "/assets/speakers/Claudia-Patricolo-pic-300x300.png",
@@ -88,11 +89,13 @@
         "/assets/speakers/LepsenyiIstvan_kep-300x300.jpg",
         "/assets/speakers/MID08829-1536x1536.jpg",
         "/assets/speakers/MID08829-300x300.jpg",
+        "/assets/speakers/MR4_8788.jpg",
         "/assets/speakers/Manfred_Seitz_13x18cm-300x300.jpg",
         "/assets/speakers/Maria-Olczak-scaled.jpg",
         "/assets/speakers/Mateusz_Figaszewski_portret-300x300.jpg",
         "/assets/speakers/Meszaros-Virag.png",
         "/assets/speakers/Mirela-Atanasiu-300x300.jpg",
+        "/assets/speakers/Pawel-Stanczak_400x400-2.jpg",
         "/assets/speakers/Polina-Kazakevych-300x300.jpg",
         "/assets/speakers/Portrait_of_Mr_Konstantinos_Sifnaios-002-Copy-1536x1536.jpg",
         "/assets/speakers/Poza_Franck-Neel-1536x1536.jpg",
@@ -114,6 +117,8 @@
         "/assets/speakers/bacsa-gyorgy-s-300x300.jpg",
         "/assets/speakers/bgy_foto.jpg",
         "/assets/speakers/constantinos-papalucas-300x300.jpg",
+        "/assets/speakers/eszter-szekeres.jpg",
+        "/assets/speakers/gokhan_sorus-1024x1024.jpg",
         "/assets/speakers/photo-BDB-small-300x300.jpg",
         "/assets/speakers/speakers-MonikaZsigri.jpg",
         "/assets/speakers/speakers-peter-szijjarto.jpg",
@@ -182,6 +187,7 @@
     "/assets/speakers/01_NUKOVIC_RASTISLAV_Eustream.jpg": "a1e821a802347d2c802d0aa8f2f9ee45d1da779a",
     "/assets/speakers/1_MykolaKolisnyk_photo.jpg": "f22a531d0555d2d5ce0acea9485852d389528e19",
     "/assets/speakers/Andreas_Noky_Infinite-Fuels-300x300.jpg": "0e624c3ab00caecb67910c0876eb46b1672e2971",
+    "/assets/speakers/Anett-Csontos-Toth.png": "b0023b4e3bef9e8fecc844bfc9a609f1675abfb9",
     "/assets/speakers/Chatzimarkakis-Jorgo_2023-300x300.jpg": "ce7597f3c9d3672f8b9f3b1d2d5eab4db9af9b06",
     "/assets/speakers/Claudia-Patricolo-1-1536x1536.jpg": "027506964a6b3aa97af8621083b54511f454f9ea",
     "/assets/speakers/Claudia-Patricolo-pic-300x300.png": "b4f0bce13d64e1176709a3337ad32e5d434ceb30",
@@ -203,11 +209,13 @@
     "/assets/speakers/LepsenyiIstvan_kep-300x300.jpg": "db3952d951bfa92ee320318478c8178c87e2b4f4",
     "/assets/speakers/MID08829-1536x1536.jpg": "ee06a69f7181718b8a9023798f5578d5e800cca8",
     "/assets/speakers/MID08829-300x300.jpg": "d4f5d344ec26e5b1afa39ba8daf3659787f76d3b",
+    "/assets/speakers/MR4_8788.jpg": "311ff40ef4be954403a20a5d08532405f8a95917",
     "/assets/speakers/Manfred_Seitz_13x18cm-300x300.jpg": "3458536e78f4e62d4a1758893dd84b0893dcd88d",
     "/assets/speakers/Maria-Olczak-scaled.jpg": "1b391187bd1d5f6af241fc2f838af4582ac73b3e",
     "/assets/speakers/Mateusz_Figaszewski_portret-300x300.jpg": "3195ab96cfb12c62c5b9a5158f0f3340831c1714",
     "/assets/speakers/Meszaros-Virag.png": "9afd090d138876920726420b9815b91c34941f65",
     "/assets/speakers/Mirela-Atanasiu-300x300.jpg": "08f46abee7825e4788aad560d7e8964b6c293dbc",
+    "/assets/speakers/Pawel-Stanczak_400x400-2.jpg": "6e13c4c342aa68a3010851a553765de6a3bb5ff1",
     "/assets/speakers/Polina-Kazakevych-300x300.jpg": "846c09e4ea4f6f580fdeda98841c0c4defbc09fb",
     "/assets/speakers/Portrait_of_Mr_Konstantinos_Sifnaios-002-Copy-1536x1536.jpg": "a866fdba94a5fc799a5b4b6eac7f485aa5c9651d",
     "/assets/speakers/Poza_Franck-Neel-1536x1536.jpg": "33623c82d900a4a4d1a169e597f2c484e6b53ce4",
@@ -229,6 +237,8 @@
     "/assets/speakers/bacsa-gyorgy-s-300x300.jpg": "bb28118bb15595e01a6d6728375d8e938cd8a15f",
     "/assets/speakers/bgy_foto.jpg": "494614a747d2c8fd15b16a24a0097d50562c28e9",
     "/assets/speakers/constantinos-papalucas-300x300.jpg": "dd67896d4f6a34239ce07ead98bf91173429632a",
+    "/assets/speakers/eszter-szekeres.jpg": "482b09b0b09097f39c9ce46aa0aa80b9419f4c7c",
+    "/assets/speakers/gokhan_sorus-1024x1024.jpg": "5f0c19e509473170e0156039e0ff84193e6207ec",
     "/assets/speakers/photo-BDB-small-300x300.jpg": "514bdec9bffe893d0941f7a4d366ea6e1d9dddef",
     "/assets/speakers/speakers-MonikaZsigri.jpg": "682f76ff083ddff1868abf73855f1d631ad0296d",
     "/assets/speakers/speakers-peter-szijjarto.jpg": "e57ab792286d5eb20185e3299cece97d591ee976",
@@ -254,12 +264,12 @@
     "/fa-solid-900.081655f2111aa667.ttf": "54217d79e7b35011798d712a96d1c4ea08a0ca70",
     "/fa-solid-900.ce4938a30389d90a.woff2": "1aae708e3b94ee981b452a918d28ed037fbb5e18",
     "/favicon.ico": "f1635abf0aa4b0d2247bb0ac23269d0ac3027add",
-    "/index.html": "f9ae50679a8b2e3c27cddb9d2ebb31d83f1f78f0",
-    "/main.ce6a8b4006b11552.js": "0a2e2376f9536fd3bf2225912f9fbdd210a94955",
+    "/index.html": "7424bb10427654b17a5c672cdc6124cdb8443e39",
+    "/main.8294031447195fbb.js": "12e64d374f7c0707a150f823556131fef4d0e4dd",
     "/manifest.webmanifest": "5838182defd37af95ee96f715bd0cdc742063472",
     "/polyfills.f945e6bd214983c4.js": "25fa1a1a5fa7f6a08083efc23f652e645e2c5ecd",
     "/runtime.2cc99b5d68571b5a.js": "fe5d250624e1b7bb46344bdfa7a5333176b09d79",
-    "/styles.de4d6bee67fd3c4b.css": "c9532a92e0ce22d450766363b4d8c2ff95a0e2ad"
+    "/styles.5eeeef15eaca9e32.css": "5c423c73e7c03bcc42318368cf26e87040f0226e"
   },
   "navigationUrls": [
     {
