@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1725214402997,
+  "timestamp": 1725265558404,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.787682dea230354b.js",
+        "/main.e56c2f1877fadf47.js",
         "/manifest.webmanifest",
         "/polyfills.f945e6bd214983c4.js",
         "/runtime.2cc99b5d68571b5a.js",
@@ -65,6 +65,8 @@
         "/assets/people.svg",
         "/assets/person.svg",
         "/assets/phone-icon.svg",
+        "/assets/poll-icon.svg",
+        "/assets/poll-picture.svg",
         "/assets/puzzle.svg",
         "/assets/speakers/01_NUKOVIC_RASTISLAV_Eustream.jpg",
         "/assets/speakers/1_MykolaKolisnyk_photo.jpg",
@@ -195,6 +197,8 @@
     "/assets/people.svg": "03cc5dc93f994092957aca369b0fd4bd9429eb92",
     "/assets/person.svg": "f98ea69a95be23fd0c38c89adc044341363b5537",
     "/assets/phone-icon.svg": "cb79cd96b158e4975bc967ec530f32ece4600e82",
+    "/assets/poll-icon.svg": "9bcb9a0df32b25e87e081c8c803bf8f06c45ca00",
+    "/assets/poll-picture.svg": "75dce50cac8255616b6f35a09ee0244d829d3bea",
     "/assets/puzzle.svg": "5bf6045289a5622acb5d1672a367aec7da8e4f91",
     "/assets/speakers/01_NUKOVIC_RASTISLAV_Eustream.jpg": "a1e821a802347d2c802d0aa8f2f9ee45d1da779a",
     "/assets/speakers/1_MykolaKolisnyk_photo.jpg": "f22a531d0555d2d5ce0acea9485852d389528e19",
@@ -284,8 +288,8 @@
     "/fa-solid-900.081655f2111aa667.ttf": "54217d79e7b35011798d712a96d1c4ea08a0ca70",
     "/fa-solid-900.ce4938a30389d90a.woff2": "1aae708e3b94ee981b452a918d28ed037fbb5e18",
     "/favicon.ico": "f1635abf0aa4b0d2247bb0ac23269d0ac3027add",
-    "/index.html": "c4bf1dda166086ef09d0a3102958305b50d015ad",
-    "/main.787682dea230354b.js": "9e700d8f32fb2aa92abb6916d6381c9bcbd5ea1b",
+    "/index.html": "62b33cd3982e4eeed5f5cfbde645fbaf04d306be",
+    "/main.e56c2f1877fadf47.js": "1a1c02d6e52c6095972d6c2e6281df0804631afb",
     "/manifest.webmanifest": "5838182defd37af95ee96f715bd0cdc742063472",
     "/polyfills.f945e6bd214983c4.js": "25fa1a1a5fa7f6a08083efc23f652e645e2c5ecd",
     "/runtime.2cc99b5d68571b5a.js": "fe5d250624e1b7bb46344bdfa7a5333176b09d79",
