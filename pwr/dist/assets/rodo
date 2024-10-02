@@ -97,7 +97,7 @@
     <li>Provide the app’s essential functions (eg. matchmaking, live chat discussions, etc.)</li>
   </ul>
   <p>
-    Please note, the personal identification information, job title, occupation, topical interest and networking interests
+    Please note, the personal identification information, job title, occupationgroup and topical interest
     provided by the user during the account registration process will be accessible (ie. visible) to other users
     registered on the app for the XXIV Conference of PhD Students and Young Scientists event.
   </p>
@@ -107,6 +107,9 @@
     We will store the user’s data (the data mentioned above, including personal identification information, passwords
     and automatically collected information) for a maximum of 7 days from the first full day following XXIV Conference
     of PhD Students and Young Scientists taking place from 23.10.2024 until 25.10.2024.
+  </p>
+  <p>
+    Moreover, all information provided in the chatrooms by the user will also be visible by other users in that particular chatroom.
   </p>
   <p>
     Following the 7-day period, all data entered by the user into the app will
@@ -137,7 +140,8 @@
     “Converetti” securely stores your data using a third-party software platform “DigitalOcean” (<a
     href="https://www.digitalocean.com/"
   >https://www.digitalocean.com/</a
-  >). To ensure extra security, we protect passwords provided by the user using the “hash” function.
+  >). To ensure extra security, we protect passwords provided by the user using the “hash” function. Please note, other data is not
+protected by the “hash” function.
   </p>
   <p>
     For users who create an account, we will keep their data (eg. name, job title, photo, password, telephone number,
@@ -159,6 +163,12 @@
   <p>
     Converetti is not legally responsible for any data security breaches that may occur in case of external data
     security threats, such as cyberattacks or other unforeseen external events associated with cyberattacks.
+  </p>
+  <p>
+    Please note, we do not make a security backup of your data during the data-processing
+    period. Therefore, in an unlikely event of a security breach and subsequent full
+    database deletion (according to our security procedure) we will not be able to restore
+    your erased data.
   </p>
   <h2>What are your data protection rights?</h2>
   <p>
