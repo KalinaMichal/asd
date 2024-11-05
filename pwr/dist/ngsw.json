@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1729706867985,
+  "timestamp": 1730830178648,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.83af3d41cc940b2b.js",
+        "/main.69bb3b48639840b9.js",
         "/manifest.webmanifest",
         "/polyfills.f945e6bd214983c4.js",
         "/runtime.2cc99b5d68571b5a.js",
-        "/styles.f7da0f2cc807a848.css"
+        "/styles.10c57115ced7e708.css"
       ],
       "patterns": []
     },
@@ -30,6 +30,7 @@
       },
       "urls": [
         "/apple-touch-icon.png",
+        "/assets/add-icon.svg",
         "/assets/apps/apple.png",
         "/assets/apps/google.png",
         "/assets/apps/pc.png",
@@ -47,6 +48,7 @@
         "/assets/eula",
         "/assets/exit-icon.svg",
         "/assets/hamburger-menu.svg",
+        "/assets/img-icon.svg",
         "/assets/job.svg",
         "/assets/logos/PWR.png",
         "/assets/logos/hydrogen-summit-logo.png",
@@ -63,6 +65,7 @@
         "/assets/nav/profile-nav-icon.svg",
         "/assets/occupation-icon.svg",
         "/assets/pad-lock-icon.svg",
+        "/assets/paper-plane-icon.svg",
         "/assets/paper-plane.svg",
         "/assets/pencil-icon.svg",
         "/assets/people.svg",
@@ -150,6 +153,7 @@
         "/assets/sponsors/sponsorLogo1.png",
         "/assets/sponsors/sponsorLogo2.png",
         "/assets/sponsors/sponsorLogo3.png",
+        "/assets/sponsors/sponsorLogo4.png",
         "/assets/sponsors/sponsorsPWR.png",
         "/assets/temp/sponsors-footer.png",
         "/assets/temp/sponsors-logo.png",
@@ -168,6 +172,7 @@
   "dataGroups": [],
   "hashTable": {
     "/apple-touch-icon.png": "229df2094cc590088de00ea97a1eb4e4493101d2",
+    "/assets/add-icon.svg": "d8a8e1516fc07550d296ee803c78ec9f8ee861b9",
     "/assets/apps/apple.png": "b501022e2a25e76cc7db092e16434af12e0b0cab",
     "/assets/apps/google.png": "1ed5e4dd0c096a08fe79fe4cd2f5c2fd34b0f9ba",
     "/assets/apps/pc.png": "7a8795dcbcd9fb056dc26924b757c1514cf0b19b",
@@ -180,16 +185,17 @@
     "/assets/company.svg": "1af20b8c19d5f254ad4ede49e822c5525a90c64e",
     "/assets/connect-with-icon.svg": "b60d05ae66a06914d17c79f2de90fcd22ee23f5b",
     "/assets/console.svg": "7eec7d5844c7b1e58e09027782b211448d863659",
-    "/assets/converetti-logo.png": "7bbce6450626cea71eacb04124a89b5072aa0d2e",
+    "/assets/converetti-logo.png": "770fe3ba124cc74ff85cec88619c069b3910b710",
     "/assets/delete-user.svg": "e6c640e342cb22cd9c8325c2aea41c2d7875c2ae",
     "/assets/eula": "4ebac988e728d89c8994a76703fc6b392fda9f72",
     "/assets/exit-icon.svg": "4a626d61c2a22930eea5bbcb9592472efe927a04",
     "/assets/hamburger-menu.svg": "c4553747edcfdd8de6abe7d4e96df07af579972c",
+    "/assets/img-icon.svg": "419fcc28f0c59d00f3ed73440fa436f01f05fb6d",
     "/assets/job.svg": "7ebc29a1abbee80bddb576d63218ad603b5960de",
     "/assets/logos/PWR.png": "b38a2c018dd79ae1d39db81ebdf0d0766bb71465",
     "/assets/logos/hydrogen-summit-logo.png": "d45a5965742821ed98a5717daee34bdbfb7b84f6",
     "/assets/logos/lng-summit-logo.png": "39b0e5187b3b6bcb986cf16f138792bad41e6f5a",
-    "/assets/logos/template-logo.png": "9170df2747d84e76374e6461feae47b62cf86748",
+    "/assets/logos/template-logo.png": "adbe0803d97c40174b88fe2663c6c9b9fe0a1f63",
     "/assets/logout-icon.svg": "c2806256695054f4f06eb55860f1ff0050652a9c",
     "/assets/magnifier.svg": "3db42bc8bad6d1cd101d475812571a4a381df428",
     "/assets/message.svg": "cb95583a79db81f28f03eefd4dc9f67dc01ac743",
@@ -201,6 +207,7 @@
     "/assets/nav/profile-nav-icon.svg": "8fcd737aa57773f46d430a23a6a115269b3b8115",
     "/assets/occupation-icon.svg": "9990a78727992a305e5423a3a0986d45fde534b2",
     "/assets/pad-lock-icon.svg": "faad9246b6e96a341a6a00d000a1cf71fd3764d2",
+    "/assets/paper-plane-icon.svg": "f8aee85ad4feae468a3cacc5c5b9ba3b45ca2c73",
     "/assets/paper-plane.svg": "8ecc5a6116551add6907d78616b74765787051a1",
     "/assets/pencil-icon.svg": "9fb608e1ccd9ce6d04ef870099473b0239bcd0b5",
     "/assets/people.svg": "03cc5dc93f994092957aca369b0fd4bd9429eb92",
@@ -209,7 +216,7 @@
     "/assets/poll-icon.svg": "9bcb9a0df32b25e87e081c8c803bf8f06c45ca00",
     "/assets/poll-picture.svg": "75dce50cac8255616b6f35a09ee0244d829d3bea",
     "/assets/puzzle.svg": "5bf6045289a5622acb5d1672a367aec7da8e4f91",
-    "/assets/rodo": "19501beab9a003e3742076c5bfb4f8f0a799101b",
+    "/assets/rodo": "69977a0f2bc4d24a1cef7bc9689d652981620011",
     "/assets/speakers/01_NUKOVIC_RASTISLAV_Eustream.jpg": "a1e821a802347d2c802d0aa8f2f9ee45d1da779a",
     "/assets/speakers/1_MykolaKolisnyk_photo.jpg": "f22a531d0555d2d5ce0acea9485852d389528e19",
     "/assets/speakers/Andreas_Noky_Infinite-Fuels-300x300.jpg": "0e624c3ab00caecb67910c0876eb46b1672e2971",
@@ -288,6 +295,7 @@
     "/assets/sponsors/sponsorLogo1.png": "7947390b1a4e67fee537674416e72f79525ee8cc",
     "/assets/sponsors/sponsorLogo2.png": "c949d8ec421ea674d826bbf02235cff19ceb8eed",
     "/assets/sponsors/sponsorLogo3.png": "0fc8d43d50da8fdd24121d42ff46c7d8a24dd451",
+    "/assets/sponsors/sponsorLogo4.png": "28a836acb29557be57d2079ff3cafc3a3aaa4679",
     "/assets/sponsors/sponsorsPWR.png": "58c725a814b07fc9f2b9b06ec6905957e78fbf20",
     "/assets/temp/sponsors-footer.png": "4dabc1a7d585cc91d3aadba9a0ab6962e05a8230",
     "/assets/temp/sponsors-logo.png": "024700b5a01df815b25c003ab80c358cddb26d5a",
@@ -300,12 +308,12 @@
     "/fa-solid-900.081655f2111aa667.ttf": "54217d79e7b35011798d712a96d1c4ea08a0ca70",
     "/fa-solid-900.ce4938a30389d90a.woff2": "1aae708e3b94ee981b452a918d28ed037fbb5e18",
     "/favicon.ico": "f1635abf0aa4b0d2247bb0ac23269d0ac3027add",
-    "/index.html": "df88ad630764845941175156cd2eff74ec9a1261",
-    "/main.83af3d41cc940b2b.js": "7180717c1dcc7b051cd603e3e36b0b9fb1fe2441",
+    "/index.html": "b6da45bebd051e321213850398f2639be5e567f9",
+    "/main.69bb3b48639840b9.js": "aadfbd5b58e2701d0463414d3051335bfb3c3fb4",
     "/manifest.webmanifest": "5838182defd37af95ee96f715bd0cdc742063472",
     "/polyfills.f945e6bd214983c4.js": "25fa1a1a5fa7f6a08083efc23f652e645e2c5ecd",
     "/runtime.2cc99b5d68571b5a.js": "fe5d250624e1b7bb46344bdfa7a5333176b09d79",
-    "/styles.f7da0f2cc807a848.css": "11ce5ebda5f5cd8a9534049fa7622042b9513c7e"
+    "/styles.10c57115ced7e708.css": "7c99e9ff5592ed9624cb5f3d3286c4a90b9b808b"
   },
   "navigationUrls": [
     {

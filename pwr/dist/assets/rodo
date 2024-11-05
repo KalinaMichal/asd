@@ -50,7 +50,7 @@
   </p>
   <h2>Why do we collect?</h2>
   <p>
-    Our app functions solely to provide event management and business networking services for third-party organisations
+    Our app functions solely to provide event management and networking services and business networking platform for third-party organisations
     under commercial business-to-business (B2B) agreements. Our app collects the user’s data to enable the fulfilment
     of those services (ie. allow the user to create an account to access the app’s features, as arranged with a given
     third-party organisation.)
@@ -59,6 +59,10 @@
     As part of the commercial B2B agreements, we do not share the user’s personal or sensitive data with third-party
     organisations.
   </p>
+    <p>
+  For more information on our commercial B2B agreements, please do not hesitate to
+  contact us via email at office@converetti.com for more information.
+    </p>
   <h2>What data do we collect?</h2>
   <p>We collect the following data:</p>
   <ul>
@@ -67,7 +71,9 @@
     <li>Occupation groups</li>
     <li>Passwords</li>
     <li>
-      Topical interests (ie. the “Which is your favourite topical interest?” question, as described on the app.)
+      Topical interests (ie. the “Which is your favourite topical interest?” question, on the
+     Account Registration page. If you do not see this question after entering the
+       access “PIN”, we do not collect this type of data.,)
     </li>
     <li>
       Occupation group (ie. the “What is your occupation group?” question, as described on the app.)
@@ -99,14 +105,22 @@
   <p>
     Please note, the personal identification information, job title, occupationgroup and topical interest
     provided by the user during the account registration process will be accessible (ie. visible) to other users
-    registered on the app for the XXIV Conference of PhD Students and Young Scientists event.
+    registered on the app for the event (s) for which
+                                 the account was created access PIN is assigned to the event (s)).
   </p>
-
+    <p>
+Moreover, all information provided in the chatrooms by the user will also be visible by
+other users in that particular chatroom.
+  </p>
   <h2>How long will we store your data?</h2>
   <p>
     We will store the user’s data (the data mentioned above, including personal identification information, passwords
-    and automatically collected information) for a maximum of 7 days from the first full day following XXIV Conference
-    of PhD Students and Young Scientists taking place from 23.10.2024 until 25.10.2024.
+    and automatically collected information) for a maximum of 7 days following the end of the event(s) for which the
+                                                                               account was created (the access “PIN” is assigned to the event (s)).
+
+                                                                               Within the 7-day period, the user will receive a 24-hour notice via the app’s email and
+                                                                               “push” notifications function, informing them about their account’s deletion following the
+                                                                               end of the event (assigned by the access “PIN”).
   </p>
   <p>
     Moreover, all information provided in the chatrooms by the user will also be visible by other users in that particular chatroom.
@@ -125,16 +139,6 @@
     These data sets are collected for the essential functioning of the app, which will be deleted within 7 days from
     the first full day following XXIV Conference of PhD Students and Young Scientists.
   </p>
-  <h2>Data-sharing Agreement with Wrocław University of Science and Technology</h2>
-  <p>
-    As part of a commercial business-to-business (B2B) agreement between us and Wrocław University of Science and
-    Technology, "Converetti" will not share any personal or sensitive data collected via the app.
-  </p>
-  <p>
-    If you have any questions for Wrocław University of Science and Technology, please contact Damian Kasza via
-    <a href="mailto: damian.kasza@pwr.edu.pl">damian.kasza@pwr.edu.pl</a>. Alternatively, please contact Wrocław University of Science and Technology at
-    Wybrzeże Stanisława Wyspiańskiego 27 50-370 Wrocław.
-  </p>
   <h2>How do we store your data?</h2>
   <p>
     “Converetti” securely stores your data using a third-party software platform “DigitalOcean” (<a
@@ -151,8 +155,7 @@ protected by the “hash” function.
   <p>
     If the user would like to delete their account on “Converetti” and thus revoke the permission to store their data,
     they can do this by clicking the “delete your account” button within the app or contacting us
-    via office@converetti.com. The user’s account will be automatically deleted 7 days from the first full day
-    following XXIV Conference of PhD Students and Young Scientists.
+    via office@converetti.com.
   </p>
   <h2>Security</h2>
   <p>
@@ -243,14 +246,15 @@ protected by the “hash” function.
   <h2>Changes to our Privacy and Cookies Policy</h2>
   <p>
     “Converetti” keeps its Privacy and Cookies Policy under regular review and places any updates on this page.
-    In the event of any changes to our Privacy and Cookies Policy, we will only contact our temporarily registered
-    users (ie. for the purposes of the XXIV Conference of PhD Students and Young Scientists, until the accounts’
-    deletion following the event) regarding those changes via email
-    (<a href="mailto: office@converetti.com">office@converetti.com</a>).
+    In case of any changes to our Privacy and Cookies Policy, we will only contact our temporarily registered
+    users (ie. for the event(s) for
+                       which the account was created regarding those changes via our email
+    (<a href="mailto: office@converetti.com">office@converetti.com</a> and/or push notifications function.)
+                                                                       during the duration of the event(s).
   </p>
   <p>
-    We cannot contact users who are not registered with us as their personal data will be removed 7 days after the
-    first full day of the abovementioned conference.
+    Therefore, we will not be able to contact users who are not registered with us as their personal data is removed within 7 days after the
+    first full day following the event (s) for which the account was created.
   </p>
   <h2>How to contact us</h2>
   <p>
