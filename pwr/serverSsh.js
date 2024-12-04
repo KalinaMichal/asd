@@ -13,7 +13,21 @@ const httpsOptions = {
 
 var app = express();
 
-app.use(express.static(__dirname + '/dist'));
+app.use(express.static(__dirname + '/dist', {
+  setHeaders: (res, path) => {
+    res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+    res.setHeader('Pragma', 'no-cache');
+    res.setHeader('Expires', '0');
+    res.setHeader('Surrogate-Control', 'no-store');
+  }
+}));
+
+app.get('*', function (req, res) {
+  res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate');
+  res.setHeader('Pragma', 'no-cache');
+  res.setHeader('Expires', '0');
+  res.sendFile(path.join(__dirname, '/dist/index.html'));
+});
 
 app.use('*', function (req, res) {
   res.sendFile(path.join(__dirname, '/dist/index.html'));
