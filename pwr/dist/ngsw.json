@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1736002263673,
+  "timestamp": 1739135080087,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.6a826ccc99dcdecc.js",
+        "/main.8cf8159653416960.js",
         "/manifest.webmanifest",
         "/polyfills.f945e6bd214983c4.js",
         "/runtime.2cc99b5d68571b5a.js",
@@ -51,6 +51,7 @@
         "/assets/exit-icon.svg",
         "/assets/file-icon.svg",
         "/assets/hamburger-menu.svg",
+        "/assets/houses.svg",
         "/assets/img-icon.svg",
         "/assets/job.svg",
         "/assets/logos/PWR.png",
@@ -197,6 +198,7 @@
     "/assets/exit-icon.svg": "4a626d61c2a22930eea5bbcb9592472efe927a04",
     "/assets/file-icon.svg": "afc7d503127b0b027553fef593856c9471df1493",
     "/assets/hamburger-menu.svg": "c4553747edcfdd8de6abe7d4e96df07af579972c",
+    "/assets/houses.svg": "a3a027c186307d0db103fe131a2b6795246c9372",
     "/assets/img-icon.svg": "419fcc28f0c59d00f3ed73440fa436f01f05fb6d",
     "/assets/job.svg": "7ebc29a1abbee80bddb576d63218ad603b5960de",
     "/assets/logos/PWR.png": "b38a2c018dd79ae1d39db81ebdf0d0766bb71465",
@@ -316,8 +318,8 @@
     "/fa-solid-900.081655f2111aa667.ttf": "54217d79e7b35011798d712a96d1c4ea08a0ca70",
     "/fa-solid-900.ce4938a30389d90a.woff2": "1aae708e3b94ee981b452a918d28ed037fbb5e18",
     "/favicon.ico": "f1635abf0aa4b0d2247bb0ac23269d0ac3027add",
-    "/index.html": "dd4306f2e7ae3feab8e6a3d7b795c363dd73ce81",
-    "/main.6a826ccc99dcdecc.js": "bf55b9d8f98589c3ea80a55e309edbb74e3d1699",
+    "/index.html": "b37d82f5d3cc9eadb86377548bbb5c68e9f138bb",
+    "/main.8cf8159653416960.js": "55e4d3706c3bcb5b59fb8bc977b73b21b1a03041",
     "/manifest.webmanifest": "5838182defd37af95ee96f715bd0cdc742063472",
     "/polyfills.f945e6bd214983c4.js": "25fa1a1a5fa7f6a08083efc23f652e645e2c5ecd",
     "/runtime.2cc99b5d68571b5a.js": "fe5d250624e1b7bb46344bdfa7a5333176b09d79",
